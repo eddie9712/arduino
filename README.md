@@ -1,2 +1,2 @@
 # arduino
-small projects
+small project
